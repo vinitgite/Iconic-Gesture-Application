@@ -19,7 +19,8 @@
  11. os (For detecting/choosing the file)
  
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
- # NOTE :- 1. Only change the path of newpathofoutput variable before running in ppt_to_image.py
+ # NOTE :- 
+           1. Only change the path of newpathofoutput variable before running in ppt_to_image.py
            2. Try to run code in VScode because to when it is running on pycharm somehow it gives error in Win32com.client library
  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
