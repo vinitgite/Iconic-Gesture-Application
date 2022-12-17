@@ -17,6 +17,11 @@
   9. Win32com.client (converting ppt to pdf)
  10. Pyautogui (automatically control keyboard)
  11. os (For detecting/choosing the file)
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # NOTE :- 1. Only change the path of newpathofoutput variable before running in ppt_to_image.py
+           2. Try to run code in VScode because to when it is running on pycharm somehow it gives error in Win32com.client library
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Implementation
 Firstly welcome window will start then after clicking next button the camera detection part process will start and if camera is not detected then it will exit from the application and if camera is detected then choice window will open in that there are various choices are given such as ppt, video and audio.
